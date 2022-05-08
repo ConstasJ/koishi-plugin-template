@@ -1,0 +1,23 @@
+{
+  "name": "koishi-plugin-template",
+  "version": "1.0.0",
+  "description": "A template repo for Koishi.js plugin development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ConstasJ/koishi-plugin-template.git"
+  },
+  "keywords": [
+    "Koishi.js",
+    "koishi"
+  ],
+  "author": "ConstasJ <constasj@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConstasJ/koishi-plugin-template/issues"
+  },
+  "homepage": "https://github.com/ConstasJ/koishi-plugin-template#readme"
+}
