@@ -1,13 +1,14 @@
 {
   "name": "koishi-plugin-template",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "A template repo for Koishi.js plugin development.",
   "main": "lib/index.js",
   "types": "lib/index.ts",
   "scripts": {
     "build": "rollup -c",
     "test": "mocha ./test/* --exit --timeout 60000",
-    "lint": "eslint --fix --ext .ts,.js,.vue ./src"
+    "lint": "eslint --fix --ext .ts,.js,.vue ./src",
+    "postinstall": "npx husky install"
   },
   "repository": {
     "type": "git",
