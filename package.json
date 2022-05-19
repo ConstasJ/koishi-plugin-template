@@ -1,7 +1,7 @@
 {
-  "name": "koishi-plugin-template",
+  "name": "koishi-plugin-ping",
   "version": "0.0.0-development",
-  "description": "A template repo for Koishi.js plugin development.",
+  "description": "A ping plugin for Koishi.js",
   "main": "lib/index.js",
   "types": "lib/index.ts",
   "scripts": {
