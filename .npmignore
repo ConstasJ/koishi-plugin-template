@@ -1,9 +1,8 @@
 src/
+test/
 rollup.config.js
 .editorconfig
-.mocharc.js
 .releaserc
 .eslintrc
 tsconfig.json
 pnpm-lock.yaml
-test/
